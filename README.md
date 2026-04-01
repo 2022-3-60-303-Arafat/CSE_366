@@ -1,3 +1,23 @@
 # CSE_366
+Task1
 
-https://www.kaggle.com/code/arafat2015/cse366-project-task1
+https://www.kaggle.com/code/arafat2015/mini-project-task-1-eda
+
+
+Task2
+
+https://www.kaggle.com/code/arafat2015/task2-0f-project-v2
+
+
+Task 3
+
+https://www.kaggle.com/code/arafat2015/fork-of-task-3-cnn
+
+
+Task 4
+
+https://www.kaggle.com/code/arafat2015/fork-of-task-4
+
+Task 5
+
+https://www.kaggle.com/code/arafat2015/fork-of-task-5-of-project
